@@ -10,7 +10,7 @@ A demonstration of the model in action can be viewed here:
 
 To begin using the SLM, follow these steps:
 
-## 3. Install Required Dependencies
+## 1. Install Required Dependencies
 
 First, install all necessary dependencies by running the following command in your terminal:
 
