@@ -4,7 +4,7 @@ The SLM is a compact and efficient language model, requiring only **506 MB** of 
 
 A demonstration of the model in action can be viewed here:
 
-![SLM Demo Video](assets/demo_first_slm.mp4)
+![SLM Demo Video](assets/demo_first_slm.gif)
 
 # Getting Started with the Small Language Model
 
